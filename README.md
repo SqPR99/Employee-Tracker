@@ -8,6 +8,8 @@
 * [Walk-Through-Video](#walk-through-video)
 * [Contributing](#contributing)
 * [Questions](#questions)
+
+Repository: https://github.com/SqPR99/Employee-Tracker
     
 ## [Description](#table-of-contents)
 This application was created using MYSQL in order to track employees and store information in a database
