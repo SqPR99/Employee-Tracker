@@ -5,7 +5,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Walk Through Video](#walk through video)
+* [Walk-Through-Video](#walk-through-video)
 * [Contributing](#contributing)
 * [Questions](#questions)
     
