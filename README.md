@@ -5,6 +5,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
+## [Walk Through Video](#walk through video)
 * [Contributing](#contributing)
 * [Questions](#questions)
     
@@ -15,7 +16,7 @@ In order to install this application, the user needs to clone the repository and
 ## [Usage](#table-of-contents)
 Once the database is seeded, you can run the command node server.js in the temrinal to start the application. There you will be greated with multiple choices - View Employees, View Employees by Department, Add Employees, Update Employee Role, Add Role and Exit. In those options you can choose what you like depending on your setup.
 
-
+## [Walk Through Video](#table-of-contents)
 https://user-images.githubusercontent.com/105133644/182506098-95c7df5f-b3a0-4f0e-90a2-6ddbc669a925.mp4
 
 
